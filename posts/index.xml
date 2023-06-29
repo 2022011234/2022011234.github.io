@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2023 15:11:25 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myquestion</title>
+      <link>/posts/myquestion/</link>
+      <pubDate>Thu, 29 Jun 2023 15:11:25 +0800</pubDate>
+      
+      <guid>/posts/myquestion/</guid>
+      <description>
+        
+          
+            #我在此次配置中遇到了地址404的现象，原因是我配置的时候没有考虑文件系统，以至于选择了两个主题放入导致运行不成功。但通过老师在群里为同学们，解答我了解到问题所在。我还遇到了新增加一个博客文章发现并没有显示，是因为我没有将静态内容推送到Github Pages里面去，只是localhost:1313有了但是没有增加进去。但我通过多次观看老师发的讲解视频以及问同学解决了此次问题。
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MyFirstArticles</title>
+      <link>/posts/myfirstarticles/</link>
+      <pubDate>Thu, 29 Jun 2023 14:17:49 +0800</pubDate>
+      
+      <guid>/posts/myfirstarticles/</guid>
+      <description>
+        
+          
+            #这是我的第一篇博客内容
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
